@@ -554,8 +554,8 @@
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-32" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="585" width="113" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7n1Dy7M9T6NOybXXAWOH-33" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="380" width="113" height="60" as="geometry" />
+        <mxCell id="7n1Dy7M9T6NOybXXAWOH-33" value="作答" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="193.5" y="350" width="113" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
