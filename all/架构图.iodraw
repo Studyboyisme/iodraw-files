@@ -539,7 +539,7 @@
           <mxGeometry x="600" y="620" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-33" value="作答" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="113" height="60" as="geometry" />
+          <mxGeometry x="317" y="320" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7n1Dy7M9T6NOybXXAWOH-31" target="7n1Dy7M9T6NOybXXAWOH-31">
           <mxGeometry relative="1" as="geometry" />
