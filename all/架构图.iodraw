@@ -549,13 +549,13 @@
           <mxGeometry x="1070" y="580" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-31" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="657" y="350" width="113" height="60" as="geometry" />
+          <mxGeometry x="557" y="350" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-32" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="610" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-33" value="作答" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="113" height="60" as="geometry" />
+          <mxGeometry x="290" y="340" width="113" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
