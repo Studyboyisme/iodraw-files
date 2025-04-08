@@ -485,10 +485,10 @@
           <mxGeometry x="430" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-6" value="题目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="810" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-7" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-9" value="课程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="414" y="40" width="120" height="60" as="geometry" />
@@ -536,7 +536,7 @@
           <mxGeometry x="638.5" y="350" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-32" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="620" width="113" height="60" as="geometry" />
+          <mxGeometry x="750" y="740" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-33" value="作答" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="113" height="60" as="geometry" />
@@ -551,7 +551,7 @@
           <mxGeometry x="980" y="390" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-42" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-43" value="关联" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="450" width="113" height="60" as="geometry" />
