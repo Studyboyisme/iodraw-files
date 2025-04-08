@@ -500,7 +500,7 @@
           <mxGeometry x="226.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;授课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="113" height="60" as="geometry" />
+          <mxGeometry x="638.5" y="130" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7n1Dy7M9T6NOybXXAWOH-2" target="7n1Dy7M9T6NOybXXAWOH-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -550,6 +550,9 @@
             <mxPoint x="380" y="480" as="sourcePoint" />
             <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7n1Dy7M9T6NOybXXAWOH-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;授课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="113" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
