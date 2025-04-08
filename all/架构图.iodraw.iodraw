@@ -545,7 +545,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-41" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="525" width="113" height="60" as="geometry" />
+          <mxGeometry x="10" y="570" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-42" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="120" height="60" as="geometry" />
