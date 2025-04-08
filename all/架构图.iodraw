@@ -482,19 +482,19 @@
           <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-6" value="题目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-7" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-8" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-9" value="课程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-10" value="公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="707" y="50" width="120" height="60" as="geometry" />
