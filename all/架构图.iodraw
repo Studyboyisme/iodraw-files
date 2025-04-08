@@ -533,7 +533,7 @@
           <mxGeometry x="310" y="430" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-31" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="638.5" y="350" width="113" height="60" as="geometry" />
+          <mxGeometry x="590" y="510" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-32" value="创建" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="740" width="113" height="60" as="geometry" />
@@ -548,7 +548,7 @@
           <mxGeometry x="30" y="310" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-41" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="980" y="390" width="113" height="60" as="geometry" />
+          <mxGeometry x="560" y="420" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7n1Dy7M9T6NOybXXAWOH-42" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="186.5" y="430" width="120" height="60" as="geometry" />
