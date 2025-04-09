@@ -922,7 +922,7 @@
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-43" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-45" value="进入登录界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-45" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="960" y="240" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
