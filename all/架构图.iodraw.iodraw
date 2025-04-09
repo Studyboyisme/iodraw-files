@@ -813,8 +813,8 @@
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-3" value="填写表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8K1uj0ke1e_gk0qLQW-4" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="230" width="225" height="60" as="geometry" />
+        <mxCell id="Zt8K1uj0ke1e_gk0qLQW-4" value="表单验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="430" width="225" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
