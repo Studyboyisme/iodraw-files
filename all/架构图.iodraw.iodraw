@@ -929,7 +929,7 @@
           <mxGeometry x="965" y="330" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-47" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450" y="430" width="180" height="40" as="geometry" />
+          <mxGeometry x="460" y="380" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
