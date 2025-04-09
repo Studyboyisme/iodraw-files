@@ -909,7 +909,7 @@
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-27" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-27" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="230" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="z0Ph2V8lVqwqO8fIGzxG-29" target="z0Ph2V8lVqwqO8fIGzxG-34">
