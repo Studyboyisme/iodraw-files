@@ -919,6 +919,9 @@
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0Ph2V8lVqwqO8fIGzxG-42" target="z0Ph2V8lVqwqO8fIGzxG-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0Ph2V8lVqwqO8fIGzxG-42" target="z0Ph2V8lVqwqO8fIGzxG-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-42" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="700" y="330" width="180" height="40" as="geometry" />
         </mxCell>
