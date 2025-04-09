@@ -995,6 +995,9 @@
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-47" value="提示异常信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-63" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="820" width="77.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
