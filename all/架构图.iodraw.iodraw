@@ -835,10 +835,10 @@
           <mxGeometry x="310" y="550" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-6" value="系统为不同用户分配权限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="640" width="240" height="40" as="geometry" />
+          <mxGeometry x="280" y="650" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-7" value="进入操作界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="720" width="180" height="40" as="geometry" />
+          <mxGeometry x="310" y="740" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
