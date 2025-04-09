@@ -821,6 +821,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Zt8K1uj0ke1e_gk0qLQW-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zt8K1uj0ke1e_gk0qLQW-20">
+          <mxGeometry x="-0.8882" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-2" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="230" width="225" height="60" as="geometry" />
         </mxCell>
