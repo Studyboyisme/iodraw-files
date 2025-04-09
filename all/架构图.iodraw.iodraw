@@ -818,19 +818,6 @@
             <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zt8K1uj0ke1e_gk0qLQW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Zt8K1uj0ke1e_gk0qLQW-2" target="Zt8K1uj0ke1e_gk0qLQW-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="260" />
-              <mxPoint x="580" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zt8K1uj0ke1e_gk0qLQW-22" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Zt8K1uj0ke1e_gk0qLQW-20">
-          <mxGeometry x="-0.8882" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-2" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="230" width="225" height="60" as="geometry" />
         </mxCell>
@@ -871,7 +858,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-7" value="进入操作界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="610" width="180" height="40" as="geometry" />
+          <mxGeometry x="310" y="590" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Zt8K1uj0ke1e_gk0qLQW-16" target="Zt8K1uj0ke1e_gk0qLQW-1">
           <mxGeometry relative="1" as="geometry" />
@@ -880,7 +867,7 @@
           <mxGeometry x="361.25" y="80" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zt8K1uj0ke1e_gk0qLQW-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="361.25" y="680" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="361.25" y="660" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
