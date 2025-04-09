@@ -968,9 +968,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0Ph2V8lVqwqO8fIGzxG-55">
+        <mxCell id="z0Ph2V8lVqwqO8fIGzxG-61" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0Ph2V8lVqwqO8fIGzxG-55">
           <mxGeometry x="-0.1314" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-22" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-46" value="是否注册成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
