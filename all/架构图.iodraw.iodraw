@@ -1041,11 +1041,17 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-21" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="408.5" y="960" width="93" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-22" target="ORd2PhMs00r7XYI9a1bd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-22" value="学生登录系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="384" y="1030" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-23" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="408.5" y="1450" width="93" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-24" target="ORd2PhMs00r7XYI9a1bd-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-24" value="课程考试或软考模拟卷考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="1100" width="230" height="40" as="geometry" />
