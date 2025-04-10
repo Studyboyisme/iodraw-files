@@ -1048,7 +1048,10 @@
           <mxGeometry x="344" y="955" width="206" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-25" value="提前交卷或考试时间到" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1030" width="173" height="40" as="geometry" />
+          <mxGeometry x="344" y="1030" width="206" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-26" value="学生登录系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="965" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
