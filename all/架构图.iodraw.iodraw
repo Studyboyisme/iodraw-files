@@ -1056,6 +1056,9 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-27" value="系统计算成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="377" y="1190" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-28" value="成绩详情页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="377" y="1260" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
