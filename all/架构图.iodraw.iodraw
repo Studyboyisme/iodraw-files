@@ -1044,11 +1044,11 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-23" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="827" y="950" width="93" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ORd2PhMs00r7XYI9a1bd-24" value="选择课程考试或模拟卷考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="344" y="955" width="206" height="40" as="geometry" />
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-24" value="课程考试或软考模拟卷考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="980" width="206" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-25" value="提前交卷或考试时间到" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1030" width="206" height="40" as="geometry" />
+          <mxGeometry x="350" y="1050" width="206" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-26" value="提交成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="377" y="1120" width="140" height="40" as="geometry" />
