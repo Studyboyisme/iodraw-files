@@ -996,7 +996,7 @@
           <mxGeometry x="470" y="380" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-63" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="80" y="820" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="50" y="820" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-64" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="802.5" y="830" width="77.5" height="40" as="geometry" />
@@ -1004,7 +1004,7 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-2" value="课程资源列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="820" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ORd2PhMs00r7XYI9a1bd-3" value="数据库比对" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-3" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="440" y="820" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
