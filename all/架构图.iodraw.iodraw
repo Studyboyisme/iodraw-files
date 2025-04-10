@@ -995,11 +995,6 @@
         <mxCell id="z0Ph2V8lVqwqO8fIGzxG-47" value="提示异常信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="470" y="380" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ORd2PhMs00r7XYI9a1bd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="ORd2PhMs00r7XYI9a1bd-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="840" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-2" target="ORd2PhMs00r7XYI9a1bd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1017,18 +1012,13 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-3" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ORd2PhMs00r7XYI9a1bd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-4" value="浏览课程文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="820" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-15" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="817.5" width="93" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ORd2PhMs00r7XYI9a1bd-16" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-16" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="48.25" y="817.5" width="93" height="45" as="geometry" />
         </mxCell>
       </root>
