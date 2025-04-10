@@ -1009,6 +1009,14 @@
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-3" target="ORd2PhMs00r7XYI9a1bd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ORd2PhMs00r7XYI9a1bd-19">
+          <mxGeometry x="-0.1287" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-3" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="156" height="60" as="geometry" />
         </mxCell>
