@@ -1056,6 +1056,9 @@
         <mxCell id="ORd2PhMs00r7XYI9a1bd-24" value="课程考试或软考模拟卷考试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="1100" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ORd2PhMs00r7XYI9a1bd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORd2PhMs00r7XYI9a1bd-25" target="ORd2PhMs00r7XYI9a1bd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ORd2PhMs00r7XYI9a1bd-25" value="提前交卷或考试时间到" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="341" y="1170" width="228" height="40" as="geometry" />
         </mxCell>
