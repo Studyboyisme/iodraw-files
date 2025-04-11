@@ -1606,8 +1606,8 @@
         <mxCell id="n794CyI5zwofOL-33BTT-3" value="自动组卷" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n794CyI5zwofOL-33BTT-4" value="进入组卷界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="156" height="50" as="geometry" />
+        <mxCell id="n794CyI5zwofOL-33BTT-4" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="305" width="156" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
