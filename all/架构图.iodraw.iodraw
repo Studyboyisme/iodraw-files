@@ -1091,9 +1091,6 @@
         <mxCell id="FhoXDwqd67fVRFbCX4my-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-2" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-90" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-3" value="在线学习" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="-10" width="110" height="60" as="geometry" />
         </mxCell>
@@ -1118,10 +1115,10 @@
         <mxCell id="FhoXDwqd67fVRFbCX4my-11" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="510" y="370" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="FhoXDwqd67fVRFbCX4my-1" target="FhoXDwqd67fVRFbCX4my-2">
+        <mxCell id="FhoXDwqd67fVRFbCX4my-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="FhoXDwqd67fVRFbCX4my-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="20" as="sourcePoint" />
-            <mxPoint x="440" y="180" as="targetPoint" />
+            <mxPoint x="259.9999999999998" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="FhoXDwqd67fVRFbCX4my-1" target="FhoXDwqd67fVRFbCX4my-3">
