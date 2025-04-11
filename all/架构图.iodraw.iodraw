@@ -1113,7 +1113,7 @@
           <mxGeometry x="260" y="370" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-10" value="查看数据统计图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="110" height="60" as="geometry" />
+          <mxGeometry x="440" y="300" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-11" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="110" height="60" as="geometry" />
@@ -1164,7 +1164,7 @@
           <mxGeometry x="430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-23" value="软考练习卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="110" height="60" as="geometry" />
+          <mxGeometry x="430" y="80" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="FhoXDwqd67fVRFbCX4my-5" target="FhoXDwqd67fVRFbCX4my-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
