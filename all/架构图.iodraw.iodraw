@@ -1331,8 +1331,14 @@
             <mxPoint x="600" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-85" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FhoXDwqd67fVRFbCX4my-85" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="1110" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhoXDwqd67fVRFbCX4my-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="858" as="sourcePoint" />
+            <mxPoint x="670" y="1073" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
