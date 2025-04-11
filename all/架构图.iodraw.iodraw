@@ -1425,7 +1425,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-106" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1400" width="70" height="70" as="geometry" />
+          <mxGeometry x="790" y="1375" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FhoXDwqd67fVRFbCX4my-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1280" width="360" height="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
