@@ -1278,25 +1278,25 @@
           <mxGeometry x="460" y="825" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-61" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="525" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-62" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="605" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="520" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-63" value="题库管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="675" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="590" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-64" value="试卷管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="755" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="670" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-65" value="成绩管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="835" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="750" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-66" value="错题管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="905" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="820" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-67" value="论坛管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="975" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="890" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="FhoXDwqd67fVRFbCX4my-60" target="FhoXDwqd67fVRFbCX4my-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1341,7 +1341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-77" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1040" width="110" height="60" as="geometry" />
+          <mxGeometry x="660" y="955" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
