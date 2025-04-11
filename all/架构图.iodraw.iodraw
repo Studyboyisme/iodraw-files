@@ -1609,8 +1609,11 @@
         <mxCell id="n794CyI5zwofOL-33BTT-4" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="305" width="156" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n794CyI5zwofOL-33BTT-5" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n794CyI5zwofOL-33BTT-5" value="选择科目，搜索试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-6" value="选择科目，搜索试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="156" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
