@@ -1689,7 +1689,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-29" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="263" y="820" width="110" height="60" as="geometry" />
+          <mxGeometry x="263.01" y="840" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-30" target="n794CyI5zwofOL-33BTT-31">
           <mxGeometry relative="1" as="geometry" />
@@ -1709,8 +1709,8 @@
         <mxCell id="n794CyI5zwofOL-33BTT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-32" target="n794CyI5zwofOL-33BTT-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="1110" />
-              <mxPoint x="150" y="1440" />
+              <mxPoint x="130" y="1110" />
+              <mxPoint x="130" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1739,7 +1739,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-36" value="更新错题本该错题信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1200" width="200" height="50" as="geometry" />
+          <mxGeometry x="490" y="1200" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
