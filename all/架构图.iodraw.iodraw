@@ -1619,10 +1619,10 @@
           <mxGeometry x="225.5" y="290" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-4" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="287.5" width="156" height="50" as="geometry" />
+          <mxGeometry x="450" y="295" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-5" value="选择科目，搜索试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="382.5" width="156" height="50" as="geometry" />
+          <mxGeometry x="450" y="380" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-6" value="添加试题到试卷中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="472.5" width="156" height="50" as="geometry" />
