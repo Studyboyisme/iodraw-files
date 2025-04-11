@@ -1635,11 +1635,6 @@
         <mxCell id="n794CyI5zwofOL-33BTT-5" value="选择科目，搜索试题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="400" width="156" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n794CyI5zwofOL-33BTT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="386" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-6" value="添加试题到试卷中" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="156" height="50" as="geometry" />
         </mxCell>
@@ -1656,6 +1651,9 @@
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-20" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="394" y="295" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-21" value="自动组卷" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="300" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
