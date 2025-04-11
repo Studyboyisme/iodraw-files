@@ -1709,6 +1709,9 @@
         <mxCell id="n794CyI5zwofOL-33BTT-32" value="题目分数是否为0" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="215.88" y="1080" width="204.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-33" target="n794CyI5zwofOL-33BTT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-33" value="添加题目到错题本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="239.99999999999997" y="1310" width="156" height="50" as="geometry" />
         </mxCell>
