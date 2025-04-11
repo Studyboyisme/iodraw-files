@@ -1609,8 +1609,11 @@
         <mxCell id="n794CyI5zwofOL-33BTT-2" value="进入组卷界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="156" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-3" target="n794CyI5zwofOL-33BTT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-3" value="自动组卷" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="165" height="60" as="geometry" />
+          <mxGeometry x="225.5" y="290" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-4" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="315" width="156" height="50" as="geometry" />
