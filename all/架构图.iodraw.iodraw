@@ -1618,14 +1618,20 @@
         <mxCell id="n794CyI5zwofOL-33BTT-3" value="自动组卷" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225.5" y="290" width="165" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-4" target="n794CyI5zwofOL-33BTT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-4" value="设置相关考试参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="295" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-5" target="n794CyI5zwofOL-33BTT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-5" value="选择科目，搜索试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-6" value="添加试题到试卷中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="472.5" width="156" height="50" as="geometry" />
+          <mxGeometry x="450" y="470" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-7" target="n794CyI5zwofOL-33BTT-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1637,7 +1643,7 @@
           <mxGeometry x="230" y="470" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="590" width="110" height="60" as="geometry" />
+          <mxGeometry x="270" y="580" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
