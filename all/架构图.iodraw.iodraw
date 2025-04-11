@@ -1600,8 +1600,8 @@
         <mxCell id="n794CyI5zwofOL-33BTT-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n794CyI5zwofOL-33BTT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="210" width="156" height="50" as="geometry" />
+        <mxCell id="n794CyI5zwofOL-33BTT-2" value="进入组卷界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="156" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
