@@ -1088,9 +1088,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FhoXDwqd67fVRFbCX4my-108" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1280" width="430" height="690" as="geometry" />
-        </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="70" height="70" as="geometry" />
         </mxCell>
