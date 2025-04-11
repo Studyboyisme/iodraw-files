@@ -1691,8 +1691,8 @@
         <mxCell id="n794CyI5zwofOL-33BTT-30" value="学生提交试卷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="920" width="156" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n794CyI5zwofOL-33BTT-31" value="学生提交试卷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1000" width="156" height="50" as="geometry" />
+        <mxCell id="n794CyI5zwofOL-33BTT-31" value="比对选项答案，得出分数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1000" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
