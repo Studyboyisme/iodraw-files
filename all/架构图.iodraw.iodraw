@@ -1708,7 +1708,7 @@
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-49" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n794CyI5zwofOL-33BTT-43">
           <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
-            <mxPoint x="56" as="offset" />
+            <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-32" target="n794CyI5zwofOL-33BTT-35">
@@ -1717,6 +1717,11 @@
               <mxPoint x="130" y="1110" />
               <mxPoint x="130" y="1440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-50" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n794CyI5zwofOL-33BTT-48">
+          <mxGeometry x="-0.8037" y="3" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-32" value="题目分数是否为0" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
