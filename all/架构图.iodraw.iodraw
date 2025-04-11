@@ -1598,7 +1598,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n794CyI5zwofOL-33BTT-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
