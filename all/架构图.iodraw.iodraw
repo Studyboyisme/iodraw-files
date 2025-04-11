@@ -1698,10 +1698,10 @@
           <mxGeometry x="215.87" y="1090" width="204.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-33" value="添加题目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230.01" y="1410" width="156" height="50" as="geometry" />
+          <mxGeometry x="239.98999999999998" y="1340" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-34" value="错题本是否已有题目信息" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="209" y="1200" width="271" height="60" as="geometry" />
+          <mxGeometry x="182.5" y="1200" width="271" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
