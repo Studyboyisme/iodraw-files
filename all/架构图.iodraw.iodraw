@@ -1098,9 +1098,9 @@
           <mxGeometry x="250" y="190" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-4" value="在线刷题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="510" width="110" height="60" as="geometry" />
+          <mxGeometry x="250" y="340" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-5" value="在线刷题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FhoXDwqd67fVRFbCX4my-5" value="在线考试" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
