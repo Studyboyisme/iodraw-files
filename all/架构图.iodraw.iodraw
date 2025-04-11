@@ -1744,6 +1744,11 @@
         <mxCell id="n794CyI5zwofOL-33BTT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n794CyI5zwofOL-33BTT-34" target="n794CyI5zwofOL-33BTT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n794CyI5zwofOL-33BTT-52" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n794CyI5zwofOL-33BTT-46">
+          <mxGeometry x="0.2644" y="2" relative="1" as="geometry">
+            <mxPoint x="-4" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n794CyI5zwofOL-33BTT-34" value="错题本是否已有题目信息" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="1185" width="271" height="80" as="geometry" />
         </mxCell>
