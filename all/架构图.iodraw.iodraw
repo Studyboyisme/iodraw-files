@@ -1088,9 +1088,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FhoXDwqd67fVRFbCX4my-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1240" width="455" height="770" as="geometry" />
-        </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="70" height="70" as="geometry" />
         </mxCell>
@@ -1449,12 +1446,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="987" y="1540" as="sourcePoint" />
             <mxPoint x="1037" y="1490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="1580" as="sourcePoint" />
-            <mxPoint x="850" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
