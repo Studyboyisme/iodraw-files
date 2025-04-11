@@ -1097,7 +1097,7 @@
         <mxCell id="FhoXDwqd67fVRFbCX4my-3" value="课程学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-4" value="课程学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FhoXDwqd67fVRFbCX4my-4" value="在线刷题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
