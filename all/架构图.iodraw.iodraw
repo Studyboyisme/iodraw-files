@@ -1224,7 +1224,7 @@
           <mxGeometry x="940" y="-430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-40" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-330" width="110" height="60" as="geometry" />
+          <mxGeometry x="940" y="-320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="FhoXDwqd67fVRFbCX4my-33" target="FhoXDwqd67fVRFbCX4my-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1630,7 +1630,7 @@
           <mxGeometry x="1109.9976925825745" y="-500.00261358144013" as="geometry" />
         </mxCell>
         <mxCell id="XXF1BoBnvfUQqeeCZx2C-10" value="阅卷打分" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-500" width="140" height="60" as="geometry" />
+          <mxGeometry x="1160" y="-420" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
