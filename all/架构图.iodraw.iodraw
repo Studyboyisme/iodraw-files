@@ -1652,7 +1652,7 @@
             <mxPoint x="16" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXF1BoBnvfUQqeeCZx2C-15" value="回复学生留言" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="XXF1BoBnvfUQqeeCZx2C-15" value="审核学生信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-340" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
