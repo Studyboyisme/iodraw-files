@@ -1113,13 +1113,13 @@
           <mxGeometry x="247.5" y="-430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-9" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="247.5" y="-350" width="110" height="60" as="geometry" />
+          <mxGeometry x="247.5" y="-290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-10" value="查看数据统计图" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="497.5" y="-420" width="150" height="60" as="geometry" />
+          <mxGeometry x="520" y="-270" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-11" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="499.5" y="-220" width="150" height="60" as="geometry" />
+          <mxGeometry x="520" y="-180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FhoXDwqd67fVRFbCX4my-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="FhoXDwqd67fVRFbCX4my-1" target="FhoXDwqd67fVRFbCX4my-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1186,7 +1186,7 @@
             <mxPoint x="427.5" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhoXDwqd67fVRFbCX4my-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=16;" parent="1" target="FhoXDwqd67fVRFbCX4my-11" edge="1">
+        <mxCell id="FhoXDwqd67fVRFbCX4my-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=16;" parent="1" target="FhoXDwqd67fVRFbCX4my-11" edge="1" source="FhoXDwqd67fVRFbCX4my-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="357.5" y="-320" as="sourcePoint" />
             <mxPoint x="427.5" y="-300" as="targetPoint" />
